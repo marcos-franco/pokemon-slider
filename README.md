@@ -1,6 +1,6 @@
 #   Projeto Pokemon
 
-![preview](./.github/preview)
+![preview](./.github/preview.png)
 
 > Trilha Explorer
 
@@ -9,7 +9,7 @@ Projeto construído no evento mapadev Week.
 [🔗 Clique aqui para acessar](https://marcos-franco.github.io/Nlw-Esports/)
 
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias:
 
 - HTML
 - CSS
@@ -17,11 +17,11 @@ Projeto construído no evento mapadev Week.
 - Git
 - Github
 
-## 💛 Contato:
+## 💛 Contatos:
 
 Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
 
-Github: https://github.com/marcos-franco
+Site projeto Pokemon Slider:https://marcos-franco.github.io/pokemon-slider/
 
 WhatSapp: https://contate.me/marcos-franco
 
