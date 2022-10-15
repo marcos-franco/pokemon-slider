@@ -1,4 +1,4 @@
-#   Projeto Pokemon
+#   Projeto Pokemon Slider
 
 ![preview](./github/preview.png)
 
