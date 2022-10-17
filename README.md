@@ -10,12 +10,17 @@ Projeto construído no evento mapadev Week.
 
 
 ## 🛠 Tecnologias:
-
 - HTML
 - CSS
 - Javascript
 - Git
 - Github
+
+## Status do Projeto:
+100% Concluído
+
+## Autor:
+Projeto desenvolvido por [Marcos Franco](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
 
 ## 💛 Contatos:
 
