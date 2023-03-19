@@ -6,7 +6,7 @@
 Projeto construído no evento mapadev Week.
 Projeto Pokemon Slider.
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/pokemon-slider/)
+[🔗 Clique aqui para acessar o site Pokemon Slider](https://marcos-franco.github.io/pokemon-slider/)
 
 
 ## 🛠 Tecnologias:
